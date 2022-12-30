@@ -8,12 +8,12 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-  NavLink,
+  // NavLink,
 } from "react-router-dom";
 // import FeedbackItem from "./components/FeedbackItem";
 import FeedBackList from "./components/FeedBackList";
 // import FeedBackData from "./data/FeedBackData";
-import Card from "./components/shared/Card";
+// import Card from "./components/shared/Card";
 import FeedbackStats from "./components/FeedbackStats";
 import FeedbackForm from "./components/FeedbackForm";
 import AboutPage from "./pages/AboutPage";
